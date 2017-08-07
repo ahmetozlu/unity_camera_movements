@@ -1,3 +1,10 @@
+/*
+----------------------------------------------
+--- Author         : Ahmet Özlü
+--- Mail           : ahmetozlu93@gmail.com
+--- Date           : 1st August 2017
+----------------------------------------------
+*/
 using UnityEngine;
 using VRStandardAssets.Utils;
 
@@ -8,11 +15,9 @@ public class OVR_RB_Player : MonoBehaviour
     private float m_speed = 0.8f;
     [SerializeField]
     private VRInput m_VRInput;
-
     private Rigidbody m_Rigidbody;
     private Transform head;
     private Transform body;
-
     private int m_isWalking = 0;
     private Vector3 m_direction;
 
