@@ -5,9 +5,7 @@ This repository focus on main camera movements scripts for [Unity](https://unity
 
     - **Usage:** Drag "MoveCamera.cs" and assign it to "Main Camera" game object.
 
-<details>
-           <summary>How can I use "MoveCamera.cs" in Unity?</summary>         
-</details>
+**How can I use "MoveCamera.cs" in Unity?**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/30631838-71f8133a-9dee-11e7-9699-93febf236a63.gif">
